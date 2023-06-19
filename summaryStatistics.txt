@@ -1,0 +1,21 @@
+Summary statistics file:
+
+Total # people: 5
+Total length of session: 55.7 min
+Total # of speaker switches: 29
+
+Total talk time
+
+George Harrison: 0.07 min
+Andrew Knight: 5.96 min
+John Lennon: 0.33 min
+Ringo Starr: 0.03 min
+Paul McCartney: 37.92 min
+
+Average Speaking Time 
+
+George Harrison: 1.43 sec
+Andrew Knight: 7.61 sec
+John Lennon: 2.84 sec
+Ringo Starr: 1.98 sec
+Paul McCartney: 9.4 sec

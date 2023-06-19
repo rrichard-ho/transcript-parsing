@@ -1,0 +1,33 @@
+Condensed transcript file:
+
+Andrew Knight: 9.39 sec
+Paul McCartney: 2.07 sec
+George Harrison: 3.09 sec
+Ringo Starr: 1.98 sec
+Andrew Knight: 0.54 sec
+John Lennon: 2.73 sec
+George Harrison: 1.2 sec
+Andrew Knight: 4.8 sec
+John Lennon: 9.36 sec
+Andrew Knight: 0.51 sec
+John Lennon: 4.77 sec
+Andrew Knight: 20.34 sec
+Paul McCartney: 9.12 sec
+John Lennon: 0.45 sec
+Paul McCartney: 2.04 sec
+John Lennon: 2.58 sec
+Paul McCartney: 1.29 sec
+Andrew Knight: 10.29 sec
+Paul McCartney: 5.01 sec
+Andrew Knight: 8.13 sec
+Paul McCartney: 8.67 sec
+Andrew Knight: 214.62 sec
+Paul McCartney: 2178.09 sec
+Andrew Knight: 27.48 sec
+Paul McCartney: 53.52 sec
+Andrew Knight: 24.3 sec
+Paul McCartney: 0.93 sec
+Andrew Knight: 0.66 sec
+Paul McCartney: 14.31 sec
+Andrew Knight: 21.54 sec
+
